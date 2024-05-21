@@ -1,0 +1,5 @@
+python-dotenv
+azure-identity==1.16.0
+azure-search-documents
+azure-mgmt-authorization
+langchain
